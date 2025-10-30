@@ -4,7 +4,7 @@
 
 https://github.com/Mehrsa-Mohajeri-Developer/Random_Color/assets/145048780/665e3302-7c46-4902-b10e-22e7344a2ed4 
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Random_Color/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Random_Color/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
